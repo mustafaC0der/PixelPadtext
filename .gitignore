@@ -1,0 +1,41 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# PyQt6 cache
+*.log
+*.db
+
+# Configuration files that are specific to local environments
+*.ini
+*.conf
+*.env
+
+# Custom build files
+build/
+dist/
+*.egg-info/
+
+# Specific to packaging
+*.tar.gz
+*.zip
+*.egg
+
+# Other temporary files
+*.swp
+*~
