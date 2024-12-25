@@ -1,6 +1,6 @@
 # Pixel Pad - Lightweight Text Editor
 
-It's lightweight, Python-based text editor. Customization of themes, file management, and text formatting capabilities characterize the tool. It uses PyQt6 as the framework for developing it to make sure that users obtain a clean and intuitive interface when doing text editing.
+Pixel Pad is a lightweight, Python-based text editor. Customization of themes, file management, and text formatting capabilities characterize the tool. It uses PyQt6 as the framework for developing it to make sure that users obtain a clean and intuitive interface when doing text editing.
 
 ## Characteristics
 Multiple tabs edit
