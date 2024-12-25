@@ -9,15 +9,4 @@ Multiple tabs edit
 -file management (open, close a file).
 - Cross-platform compatibility
 
-## Installation
 
-### Requirements
-- Python 3.6 and above
-- PyQt6 (for GUI)
-
-### Install Dependencies
-
-Clone the repository and install the required Python packages:
-
-`
-git clone https://github.com/your-username/pixel-pad.git cd pixel-pad pip install -r requirements.txt
